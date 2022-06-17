@@ -1,0 +1,3 @@
+[submodule "RotomecaLib_Python"]
+	path = RotomecaLib_Python
+	url = https://github.com/Rotomeca/RotomecaLib_Python
