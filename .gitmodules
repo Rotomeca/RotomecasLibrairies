@@ -1,3 +1,6 @@
 [submodule "RotomecaLib_Python"]
 	path = RotomecaLib_Python
 	url = https://github.com/Rotomeca/RotomecaLib_Python
+[submodule "C#/RotomecaLib"]
+	path = "C#/RotomecaLib"
+	url = https://github.com/Rotomeca/RotomecaLib
